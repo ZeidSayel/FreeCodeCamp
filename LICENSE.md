@@ -1,4 +1,4 @@
-Copyright (c) 2016 Free Code Camp.
+Copyrighter (c) 2016 Free Code Camp.
 
 # Computer Software
 
